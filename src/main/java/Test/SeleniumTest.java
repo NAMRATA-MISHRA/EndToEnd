@@ -10,6 +10,15 @@ public class SeleniumTest {
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("https://thesportstak.com/");
 
+		
+		
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\namra\\Downloads\\chromedriver_win32 (2)\\chromedriver.exe");
+		ChromeDriver driver = new ChromeDriver();
+		driver.get("https://thesportstak.com/");System.setProperty("webdriver.chrome.driver","C:\\Users\\namra\\Downloads\\chromedriver_win32 (2)\\chromedriver.exe");
+		ChromeDriver driver = new ChromeDriver();
+		driver.get("https://thesportstak.com/");System.setProperty("webdriver.chrome.driver","C:\\Users\\namra\\Downloads\\chromedriver_win32 (2)\\chromedriver.exe");
+		ChromeDriver driver = new ChromeDriver();
+		driver.get("https://thesportstak.com/");
 	}
 
 }
