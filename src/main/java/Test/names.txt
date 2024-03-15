@@ -1,0 +1,11 @@
+alphabet
+a
+b
+c
+d
+
+numbers
+r
+t
+y
+
