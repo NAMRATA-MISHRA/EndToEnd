@@ -13,12 +13,12 @@ public class SeleniumTest {
 		
 		
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\namra\\Downloads\\chromedriver_win32 (2)\\chromedriver.exe");
-		ChromeDriver driver = new ChromeDriver();
-		driver.get("https://thesportstak.com/");System.setProperty("webdriver.chrome.driver","C:\\Users\\namra\\Downloads\\chromedriver_win32 (2)\\chromedriver.exe");
-		ChromeDriver driver = new ChromeDriver();
-		driver.get("https://thesportstak.com/");System.setProperty("webdriver.chrome.driver","C:\\Users\\namra\\Downloads\\chromedriver_win32 (2)\\chromedriver.exe");
-		ChromeDriver driver = new ChromeDriver();
-		driver.get("https://thesportstak.com/");
+		ChromeDriver driver1 = new ChromeDriver();
+		driver1.get("https://thesportstak.com/");System.setProperty("webdriver.chrome.driver","C:\\Users\\namra\\Downloads\\chromedriver_win32 (2)\\chromedriver.exe");
+		ChromeDriver driver2 = new ChromeDriver();
+		driver2.get("https://thesportstak.com/");System.setProperty("webdriver.chrome.driver","C:\\Users\\namra\\Downloads\\chromedriver_win32 (2)\\chromedriver.exe");
+		ChromeDriver driver3 = new ChromeDriver();
+		driver3.get("https://thesportstak.com/");
 	}
 
 }
