@@ -13,6 +13,10 @@ public class EnterWebPage {
 	   System.setProperty("webdriver.chrome.driver","C:\\Users\\namra\\Downloads\\chromedriver_win32 (2)\\chromedriver.exe");
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("https://thesportstak.com/");
+		System.out.println("learning git");
+		System.out.println("learning git");
+		System.out.println("learning git");
+		System.out.println("learning git");
    }
 		
 		
